@@ -2,7 +2,7 @@ name: Deploy Node App to AWS Elastic Beanstalk
 
 env:
   APP_NAME: react-app
-  EB_ENV_NAME: react-app-prod
+  EB_ENV_NAME: Reactapp-env
   S3_BUCKET: react-app-prod-s3-bucket-20220721
   KP_NAME: assignment02-kp
   AWS_REGION: us-east-1
